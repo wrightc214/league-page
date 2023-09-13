@@ -154,7 +154,7 @@
         <li>WR</li>
         <li>TE</li>
         <li>FLEX (RB/WR/TE)</li>
-        <li>FLEX (QB/RB/WR/TE)</li>
+        <li>SUPER FLEX (QB/RB/WR/TE)</li>
     </ul>
     
     <p>21 Bench</p>
