@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Founded in 2011 on Fleaflicker (https://www.fleaflicker.com/nfl/leagues/110014)</p>
+  <p>Founded in 2011 on <a href="https://www.fleaflicker.com/nfl/leagues/110014">Fleaflicker</a></p>
   <p></p>
   <p></p>
   <p></p>
