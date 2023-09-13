@@ -6,7 +6,6 @@
     let four, fourOne, fourTwo;
     let five, fiveOne;
     let six, sixOne, sixTwo, sixThree;
-    let seven, sevenOne, sevenTwo, sevenThree;
 
     const goToSection = (section) => {
         const top = section.getBoundingClientRect().top + window.pageYOffset;
