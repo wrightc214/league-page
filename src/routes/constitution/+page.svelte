@@ -154,7 +154,7 @@
         <li>WR</li>
         <li>WR</li>
         <li>TE</li>
-        <li>FLEX (RB/WR/TE)</li
+        <li>FLEX (RB/WR/TE)</li>
         <li>FLEX (QB/RB/WR/TE)</li>
     </ul>
     
