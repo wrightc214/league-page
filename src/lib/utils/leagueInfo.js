@@ -28,7 +28,7 @@ export const managers = [
     {
       "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "597246797479469056",
-      "name": "Chris Wright",
+      "name": "Chris",
       "location": "Orlando, FL", // (optional)
       "bio": "",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
