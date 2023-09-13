@@ -27,7 +27,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 export const managers = [
     {
       "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : "597246797479469056"
+      "managerID" : "597246797479469056",
       "name": "Chris Wright",
       "location": "Orlando, FL", // (optional)
       "bio": "",
@@ -49,7 +49,7 @@ export const managers = [
     },
     {
       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-     "managerID" : "597544499589201920"
+     "managerID" : "597544499589201920",
       "name": "Josh",
       "location": "", // (optional)
       "bio": "",
@@ -71,7 +71,7 @@ export const managers = [
     },
     {
       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-     "managerID" : "835672580097691648"
+     "managerID" : "835672580097691648",
       "name": "Taylor",
       "location": "", // (optional)
       "bio": "",
@@ -93,7 +93,7 @@ export const managers = [
     },
     {
       "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-     "managerID" : "835672691632603136"
+     "managerID" : "835672691632603136",
       "name": "Heather",
       "location": "", // (optional)
       "bio": "",
@@ -115,7 +115,7 @@ export const managers = [
     },
     {
       "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-     "managerID" : "836419662811074560"
+     "managerID" : "836419662811074560",
       "name": "Ryan",
       "location": "", // (optional)
       "bio": "",
@@ -137,7 +137,7 @@ export const managers = [
     },
     {
       "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-     "managerID" : "836657994468040704"
+     "managerID" : "836657994468040704",
       "name": "Justin",
       "location": "", // (optional)
       "bio": "",
@@ -159,7 +159,7 @@ export const managers = [
     },
     {
       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-     "managerID" : "837439699923599360"
+     "managerID" : "837439699923599360",
       "name": "Mason",
       "location": "", // (optional)
       "bio": "",
@@ -181,7 +181,7 @@ export const managers = [
     },
     {
       "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-     "managerID" : "839682684757352448"
+     "managerID" : "839682684757352448",
       "name": "Bob",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Brooklyn", // (optional)
@@ -204,7 +204,7 @@ export const managers = [
     },
     {
       "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-     "managerID" : "890660101156085760"
+     "managerID" : "890660101156085760",
       "name": "Peyton",
       "location": "", // (optional)
       "bio": "",
@@ -226,7 +226,7 @@ export const managers = [
     },
     {
       "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-     "managerID" : "941435427452432384"
+     "managerID" : "941435427452432384",
       "name": "Jack",
       "location": "", // (optional)
       "bio": "",
@@ -248,7 +248,7 @@ export const managers = [
     },
     {
       "roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-     "managerID" : "519390092788297728"
+     "managerID" : "519390092788297728",
       "name": "Scotty",
       "location": "", // (optional)
       "bio": "",
@@ -270,7 +270,7 @@ export const managers = [
     },
     {
       "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-     "managerID" : "557381933367828480"
+     "managerID" : "557381933367828480",
       "name": "Tyler",
       "location": "", // (optional)
       "bio": "",
