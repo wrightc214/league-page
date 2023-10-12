@@ -20,7 +20,7 @@ export const getLeagueStandings = async () => {
 
 	const yearData = leagueData.season;
 	const regularSeasonLength = leagueData.settings.playoff_week_start - 1;
-	const medianMatch = leagueData.settings.league_average_match == 1;
+	const medianMatch = false; //leagueData.settings.league_average_match == 1;
 	const divisions = leagueData.settings.divisions && leagueData.settings.divisions > 1;
     const rosters = rostersData.rosters;
 
